@@ -1,0 +1,32 @@
+body
+{
+border:1px solid black;
+width:700px;
+height: 850px;
+margin:auto;
+position:relative;
+}
+div
+{
+background-color:#d14836;
+}
+.top
+{
+  color:white;
+}
+.colour
+{
+  background-color: white;
+  margin:0px 5px;
+}
+.pink
+{
+  background-color: pink;
+  margin:0px 5px;
+}.col
+{
+  position: absolute;
+  right:0px;
+  top:140px;
+  background-color: white;
+}
